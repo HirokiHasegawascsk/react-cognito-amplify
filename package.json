@@ -11,6 +11,7 @@
     "@types/node": "^16.18.38",
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.6",
+    "amazon-cognito-identity-js": "^6.3.1",
     "aws-amplify": "^5.3.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
